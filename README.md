@@ -1,2 +1,3 @@
-# -Da-Hye-JUNG-Parking-Demand-Forecasting
-b.a.f team project
+# 주차 수요 예측
+
+## 비어플 학회 팀 프로젝트
